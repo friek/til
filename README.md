@@ -11,6 +11,7 @@ Pull requests are welcome if you find that I learned something incorrectly.
 
 * [Python](#python)
 * [Ruby](#ruby)
+* [PHP](#php)
 
 ---
 
@@ -21,4 +22,8 @@ Pull requests are welcome if you find that I learned something incorrectly.
 ### Ruby
 
 - [Fixing "invalid multibyte escape: ..."](ruby/fix-invalid-multibyte-escape.md)
+
+### PHP
+
+- [Random SOAP client and XML errors](php/random-soapclient-errors.md)
 
