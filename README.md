@@ -12,6 +12,7 @@ Pull requests are welcome if you find that I learned something incorrectly.
 * [Python](#python)
 * [Ruby](#ruby)
 * [PHP](#php)
+* [Vim](#vim)
 
 ---
 
@@ -26,4 +27,8 @@ Pull requests are welcome if you find that I learned something incorrectly.
 ### PHP
 
 - [Random SOAP client and XML errors](php/random-soapclient-errors.md)
+
+### Vim
+
+- [Increasing or decreasing numbers](vim/increasing-or-decreasing-numbers.md)
 
