@@ -9,12 +9,17 @@ Pull requests are welcome if you find that I learned something incorrectly.
 
 ### Categories
 
+* [Git](#git)
 * [Python](#python)
 * [Ruby](#ruby)
 * [PHP](#php)
 * [Vim](#vim)
 
 ---
+
+### Git
+
+- [Git bash completion on osx/macports](git/osx-macports-bash-completion.md)
 
 ### Python
 
