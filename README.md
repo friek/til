@@ -10,9 +10,10 @@ Pull requests are welcome if you find that I learned something incorrectly.
 ### Categories
 
 * [Git](#git)
+* [Linux](#linux)
+* [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
-* [PHP](#php)
 * [Vim](#vim)
 
 ---
@@ -21,9 +22,9 @@ Pull requests are welcome if you find that I learned something incorrectly.
 
 - [Git bash completion on osx/macports](git/osx-macports-bash-completion.md)
 
-### Python
+### Linux
 
-- [Generating a range string with a lambda](python/xrange-lambda.md)
+- [XFS filesystem fluctuating disk usage](linux/xfs-fluctuating-disk-usage.md)
 
 ### Ruby
 
@@ -32,6 +33,10 @@ Pull requests are welcome if you find that I learned something incorrectly.
 ### PHP
 
 - [Random SOAP client and XML errors](php/random-soapclient-errors.md)
+
+### Python
+
+- [Generating a range string with a lambda](python/xrange-lambda.md)
 
 ### Vim
 
