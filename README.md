@@ -10,6 +10,7 @@ Pull requests are welcome if you find that I learned something incorrectly.
 ### Categories
 
 * [Git](#git)
+* [Javascript](#javascript)
 * [Linux](#linux)
 * [PHP](#php)
 * [Python](#python)
@@ -21,6 +22,10 @@ Pull requests are welcome if you find that I learned something incorrectly.
 ### Git
 
 - [Git bash completion on osx/macports](git/osx-macports-bash-completion.md)
+
+### Javascript
+
+- [Internationalization on nodejs](javascript/i18n-nodejs.md)
 
 ### Linux
 
