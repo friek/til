@@ -13,6 +13,7 @@ Pull requests are welcome if you find that I learned something incorrectly.
 * [Javascript](#javascript)
 * [Linux](#linux)
 * [PHP](#php)
+* [Postgres](#postgres)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Vim](#vim)
@@ -38,6 +39,11 @@ Pull requests are welcome if you find that I learned something incorrectly.
 ### PHP
 
 - [Random SOAP client and XML errors](php/random-soapclient-errors.md)
+
+### Postgres
+
+- [cannot ALTER TABLE "table" because it has pending trigger events](postgres/alter-table-pending-triggers.md)
+
 
 ### Python
 
