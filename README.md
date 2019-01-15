@@ -10,6 +10,7 @@ Pull requests are welcome if you find that I learned something incorrectly.
 ### Categories
 
 * [Git](#git)
+* [Docker](#docker)
 * [Javascript](#javascript)
 * [Linux](#linux)
 * [PHP](#php)
@@ -23,6 +24,10 @@ Pull requests are welcome if you find that I learned something incorrectly.
 ### Git
 
 - [Git bash completion on osx/macports](git/osx-macports-bash-completion.md)
+
+### Docker
+
+- [Volume pre-population](docker/volume-pre-population.md)
 
 ### Javascript
 
