@@ -49,6 +49,7 @@ Pull requests are welcome if you find that I learned something incorrectly.
 ### Postgres
 
 - [cannot ALTER TABLE "table" because it has pending trigger events](postgres/alter-table-pending-triggers.md)
+- [Hex string to string conversion](postgres/convert-from.md)
 
 
 ### Python
