@@ -1,6 +1,6 @@
 # Converting hex strings into text
 
-Example hex string: `7468697320697320612068657820737472696e67` (actually: `this is a hex string`)
+Example hex string: `7468697320697320612068657820737472696e67` (actually: `this is a hex string`)  
 When you've got such a string and need to convert it into a regular postgres string, you need
 to use the `DECODE` function.
 
