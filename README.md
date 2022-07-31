@@ -9,6 +9,7 @@ Pull requests are welcome if you find that I learned something incorrectly.
 
 ### Categories
 
+* [Miscellaneous](#misc)
 * [Git](#git)
 * [Docker](#docker)
 * [Javascript](#javascript)
@@ -20,6 +21,10 @@ Pull requests are welcome if you find that I learned something incorrectly.
 * [Vim](#vim)
 
 ---
+
+### Miscellaneous
+
+- [Useful CLI tools](misc/cli-tools.md)
 
 ### Git
 
